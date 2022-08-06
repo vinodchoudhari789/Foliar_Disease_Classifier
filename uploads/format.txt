@@ -1,0 +1,1 @@
+Here image which is used for detection will be saved.
